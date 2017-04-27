@@ -1,0 +1,17 @@
+{
+  "name": "express-webhook-signature",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "0.0.1",
+  "description": "-",
+  "main": "index.js",
+  "author": "Samuel Colvin",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "crypto": "^0.0.3",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.15.2"
+  }
+}

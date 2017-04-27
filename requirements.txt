@@ -1,0 +1,2 @@
+ipython  # just in case it helps
+requests
